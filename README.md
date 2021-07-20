@@ -64,13 +64,12 @@ Please keep in mind these are just my most used languages within my Repos on Git
 language.
 <br></br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sohagraha&theme=react-dark)
-
-
 ![GitHub
 stats](https://github-readme-stats.vercel.app/api?username=sohagraha&theme=tokyonight&show_icons=true&count_private=true)
 <img width="40%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohagraha&layout=compact&theme=tokyonight">
+    
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sohagraha&theme=react-dark)
 
 ![GitHub metrics](https://metrics.lecoq.io/sohagraha)
 
