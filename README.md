@@ -66,6 +66,9 @@ Please keep in mind these are just my most used languages within my Repos on Git
 language.
 <br></br>
 
+<p><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohagraha&theme=radical"
+        alt="sohagraha" /></p>
+        
 ![GitHub
 stats](https://github-readme-stats.vercel.app/api?username=sohagraha&theme=tokyonight&show_icons=true&count_private=true)
 <img width="40%"
@@ -73,8 +76,7 @@ stats](https://github-readme-stats.vercel.app/api?username=sohagraha&theme=tokyo
     
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sohagraha&theme=react-dark)
 
-<p><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohagraha&theme=radical"
-        alt="sohagraha" /></p>
+
 
 ![GitHub metrics](https://metrics.lecoq.io/sohagraha)
 
