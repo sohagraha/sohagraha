@@ -73,7 +73,7 @@ stats](https://github-readme-stats.vercel.app/api?username=sohagraha&theme=tokyo
     
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sohagraha&theme=react-dark)
 
-<p><img width="90%" style="float: left" src="https://github-readme-streak-stats.herokuapp.com/?user=sohagraha&theme=radical"
+<p><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohagraha&theme=radical"
         alt="sohagraha" /></p>
 
 ![GitHub metrics](https://metrics.lecoq.io/sohagraha)
